@@ -17,3 +17,26 @@ A cool app to check your meal
 # Add Item
 
 ![qemu-system-i386_jeFb7S8YvM](https://github.com/HarshanaJayasekara/n-cafe/blob/main/assets/add_item.png?raw=true)
+
+# cafe
+
+![qemu-system-i386_jeFb7S8YvM](https://github.com/HarshanaJayasekara/n-cafe/blob/main/assets/cart.png?raw=true)
+
+# Add Item
+
+![qemu-system-i386_jeFb7S8YvM](https://github.com/HarshanaJayasekara/n-cafe/blob/main/assets/add_item.png?raw=true)
+
+# Add item Sucess pop up Massage
+
+![qemu-system-i386_jeFb7S8YvM](https://github.com/HarshanaJayasekara/n-cafe/blob/main/assets/pupup_cart.png?raw=true)
+
+# Update inset item 
+
+![qemu-system-i386_jeFb7S8YvM](https://github.com/HarshanaJayasekara/n-cafe/blob/main/assets/update_item.png?raw=true)
+
+# Update Item Sucess pop up Massage
+
+![qemu-system-i386_jeFb7S8YvM](https://github.com/HarshanaJayasekara/n-cafe/blob/main/assets/popup_update.png?raw=true)
+
+
+
