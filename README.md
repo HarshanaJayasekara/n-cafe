@@ -28,7 +28,7 @@ A cool app to check your meal
 
 # update popup msg 
 
-![qemu-system-i386_jeFb7S8YvM](https://github.com/HarshanaJayasekara/n-cafe/blob/main/assets/popup_update.png)
+![qemu-system-i386_jeFb7S8YvM](https://github.com/HarshanaJayasekara/n-cafe/blob/main/assets/update_item.png)
 
 # card delete popup msg 
 
