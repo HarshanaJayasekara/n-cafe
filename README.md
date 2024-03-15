@@ -13,27 +13,3 @@ A cool app to check your meal
 # Verify email page
 
 ![qemu-system-i386_jeFb7S8YvM](https://github.com/snethndun/n-cafeteria/assets/72740598/e609faa0-9a4d-469e-a5cb-b74b02999d13)
-
-# Add Item page
-
-![qemu-system-i386_jeFb7S8YvM](https://github.com/HarshanaJayasekara/n-cafe/blob/main/assets/add_item.png?raw=true)
-
-# Add item Sucess pop up Massage page
-
-![qemu-system-i386_jeFb7S8YvM](https://github.com/HarshanaJayasekara/n-cafe/blob/main/assets/pupup_cart.png?raw=true)
-
-# Update inset item page
-
-![qemu-system-i386_jeFb7S8YvM](https://github.com/HarshanaJayasekara/n-cafe/blob/main/assets/update_item.png?raw=true)
-
-# Update Item Sucess pop up Massage page
-
-![qemu-system-i386_jeFb7S8YvM](https://github.com/HarshanaJayasekara/n-cafe/blob/main/assets/popup_update.png?raw=true)
-
-# cafe page
-
-![qemu-system-i386_jeFb7S8YvM](https://github.com/HarshanaJayasekara/n-cafe/blob/main/assets/cart.png?raw=true)
-
-
-
-

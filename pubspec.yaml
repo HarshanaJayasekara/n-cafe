@@ -30,7 +30,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  image_picker: ^0.8.0+4
+  image_picker: ^1.0.7
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -39,6 +39,7 @@ dependencies:
   flutter_switch: ^0.3.2
   device_preview: ^1.1.0
   awesome_dialog: ^3.2.0
+  material_text_fields: ^1.0.3
 
 dev_dependencies:
   flutter_test:
@@ -65,7 +66,7 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
    - assets/images/
-  #   - images/a_dot_ham.jpeg
+   - assets/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
